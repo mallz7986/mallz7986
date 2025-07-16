@@ -23,20 +23,31 @@
 > 🔸 Features: Cart, Checkout, Admin Panel, User Auth  
 > 🔸 Tech: PHP, MySQL, HTML/CSS, Bootstrap
 
-### 🔹 **Data Dashboard: Sales Analytics (Python + Power BI)**
-> Designed an interactive dashboard to analyze sales trends and KPIs from CSV data.  
-> 🔸 Tools: Python (Pandas, Matplotlib), Power BI  
-> 🔸 Result: Improved decision-making for inventory restocking
+---
 
-### 🔹 **Job Listing Web Scraper & Analyzer**
-> Scraped LinkedIn jobs and analyzed tech skills in demand using NLP.  
-> 🔸 Tools: Python (BeautifulSoup, Pandas, Seaborn)  
-> 🔸 Outcome: Created a visual report of skill trends for junior tech roles
+# 📱 Work Scout – Android App
 
-### 🔹 **Student Feedback Sentiment Analyzer (ML/NLP)**
-> Used machine learning to analyze student feedback and detect sentiment trends.  
-> 🔸 Tools: Python (scikit-learn, NLTK), Jupyter Notebook  
-> 🔸 Focus: Preprocessing, training models, visualizing results
+This is my top project completed during my final year of study for my degree in Software Engineering. Developed using Android Studio, this project showcases my ability to build real-world mobile applications using Java/Kotlin, XML, and Android SDKs.
+
+## 🔧 Tech Stack
+- Android Studio
+- Java / Kotlin
+- XML Layouts
+- Firebase (if used)
+- SQLite (if used)
+- MVVM / MVC Architecture
+
+## 🏆 Why This Was My Best Project
+
+- 📌 Developed during my **final year of study**
+- 💼 Combines both **technical skill** and **real-world relevance**
+- 🚀 Helped me gain hands-on experience in Android development
+- 🧩 Improved my skills in problem-solving, UI design, and coding logic
+
+
+## 📸 Screenshots
+<img width="364" height="789" alt="image" src="https://github.com/user-attachments/assets/d90bc34f-48fb-4df4-9053-65fd5c3b0564" />
+
 
 ---
 
@@ -51,10 +62,8 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(optional)*
-- 🗂️ GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 Email: [mallz7986@outlook.com]
+- 🗂️ GitHub: [github.com/yourusername](https://github.com/mallz7986)
 
 ---
 
