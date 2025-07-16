@@ -47,9 +47,12 @@ This is my top project completed during my final year of study for my degree in 
 
 ## 📸 Screenshots
 ## Contractor Page
-<img width="364" height="789" alt="image" src="https://github.com/user-attachments/assets/d90bc34f-48fb-4df4-9053-65fd5c3b0564" />
+
+- <img width="364" height="789" alt="image" src="https://github.com/user-attachments/assets/d90bc34f-48fb-4df4-9053-65fd5c3b0564" />
+
 ## Log in page
-<img width="248" height="535" alt="image" src="https://github.com/user-attachments/assets/6029a8f7-f663-4921-ac88-43d9a0fca0f0" />
+
+- <img width="248" height="535" alt="image" src="https://github.com/user-attachments/assets/6029a8f7-f663-4921-ac88-43d9a0fca0f0" />
 
 
 ---
