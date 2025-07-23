@@ -25,7 +25,7 @@
 
 ---
 
-# 📱 Work Scout – Android App
+# 📱 Work Scout – Android App https://github.com/mallz7986/WorkScout_Prot1-master
 
 This is my top project completed during my final year of study for my degree in Software Engineering. Developed using Android Studio, this project showcases my ability to build real-world mobile applications using Java/Kotlin, XML, and Android SDKs.
 
