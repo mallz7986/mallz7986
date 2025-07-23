@@ -69,7 +69,7 @@ This is my top project completed during my final year of study for my degree in 
 ## 📫 Let's Connect
 
 - 📧 Email: [mallz7986@outlook.com]
-- 🗂️ GitHub: [github.com/yourusername](https://github.com/mallz7986)
+- 🗂️ GitHub: [[github.com/yourusername](https://github.com/mallz7986)]
 
 ---
 
