@@ -11,7 +11,7 @@
 - 🎓 Recently completed a BSc in Software Engineering
 - 🛠️ Actively seeking **internships in Software Engineering or Data Analytics**
 - 🧪 Passionate about building scalable systems and uncovering insights from data
-- 🌱 Constantly learning: Python, SQL, Machine Learning, and Web Development
+- 🌱 Constantly learning: Python, SQL and Web Development
 - 💬 Let's collaborate on meaningful projects!
 
 ---
