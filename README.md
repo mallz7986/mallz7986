@@ -21,7 +21,7 @@
 ### 📂 Featured Projects
 - [T-Shirt E-commerce Website](https://github.com/mallz7986/seventySevensGifts-tees.git) – PHP-based online store
 - [Student Data Reader](https://github.com/mallz7986/student-data-sample.git)
-- [Python Temp Checker sample](https://github.com/mallz7986/python-oop)
+- [Python Temp Checker sample](https://github.com/mallz7986/temperatureCheck)
 
 ---
 
