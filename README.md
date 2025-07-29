@@ -18,14 +18,14 @@
 
 ## 📊 Top Projects
 
-### 🔹 **E-Commerce T-Shirt Website (PHP & MySQL)**
-> Built a full-stack e-commerce site for a custom t-shirt printing business.  
-> 🔸 Features: Cart, Checkout, Admin Panel, User Auth  
-> 🔸 Tech: PHP, MySQL, HTML/CSS, Bootstrap
+### 📂 Featured Projects
+- [T-Shirt E-commerce Website](https://github.com/mallz7986/tshirt-ecommerce) – PHP-based online store
+- [Student Data Reader](https://github.com/mallz7986/student-management)
+- [Python Temp Checker sample](https://github.com/mallz7986/python-oop)
 
 ---
 
-# 📱 Work Scout – Android App 
+## 📱 Work Scout – Android App 
 
 This is my top project completed during my final year of study for my degree in Software Engineering. Developed using Android Studio, this project showcases my ability to build real-world mobile applications using Java/Kotlin, XML, and Android SDKs.
 
